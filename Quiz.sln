@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz.WebApi", "Quiz.WebApi\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz.Models", "Quiz.Models\Quiz.Models.csproj", "{6810B2F9-D0DF-4F65-AB57-711213AF2C21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz.Desktop", "Quiz.Desktop\Quiz.Desktop.csproj", "{A28AB66F-C727-40F9-9723-7C561354D437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz.TelegramBot", "Quiz.TelegramBot\Quiz.TelegramBot.csproj", "{D50B9282-1A65-4A96-9608-9BAC1AAF0F7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{6810B2F9-D0DF-4F65-AB57-711213AF2C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6810B2F9-D0DF-4F65-AB57-711213AF2C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6810B2F9-D0DF-4F65-AB57-711213AF2C21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A28AB66F-C727-40F9-9723-7C561354D437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28AB66F-C727-40F9-9723-7C561354D437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28AB66F-C727-40F9-9723-7C561354D437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28AB66F-C727-40F9-9723-7C561354D437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50B9282-1A65-4A96-9608-9BAC1AAF0F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50B9282-1A65-4A96-9608-9BAC1AAF0F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50B9282-1A65-4A96-9608-9BAC1AAF0F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50B9282-1A65-4A96-9608-9BAC1AAF0F7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
